@@ -89,6 +89,7 @@ export default function App() {
             ) : (
               <p>
                 <i>No contacts</i>
+                <i>No contacts</i>
               </p>
             )}
           </nav>
